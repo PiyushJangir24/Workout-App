@@ -1,1 +1,2 @@
-# Dhyan
+# JournalApp
+
